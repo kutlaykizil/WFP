@@ -7,7 +7,7 @@ This repository contains the complete codebase for the thesis project titled "Ti
 The increasing integration of variable renewable energy sources, particularly wind power, into national grids presents significant challenges for maintaining grid stability and ensuring efficient energy market operations. Accurate forecasting of wind power generation is crucial for addressing these challenges. This thesis introduces the development of a comprehensive Wind Farm Database (WFD) for Türkiye, which consolidates data from disparate official sources, including the Energy Market Regulatory Authority (EPDK), Energy Exchange Istanbul (EPIAS), and the Ministry of Energy and Natural Resources. The WFD integrates technical specifications of wind farms, their hourly energy production, and relevant meteorological data. Utilizing this database, the study conducts a thorough analysis of wind power generation trends and capacity factors across Türkiye. Furthermore, it implements and evaluates Long Short-Term Memory (LSTM) neural network models to forecast wind power generation. The models leverage historical production data and meteorological inputs from the ERA5 reanalysis dataset to predict future energy output. The findings demonstrate that the developed LSTM models provide reliable and accurate forecasts, offering a valuable tool for energy planners, grid operators, and researchers in Türkiye. This research not only contributes a significant dataset to the public domain but also establishes a robust framework for wind energy analysis and forecasting in the region.
 
 ---
-Most of the text below is mostly written by an LLM, sorry in advance.
+Most of the text below is written by an LLM, sorry in advance.
 
 ## Key Features
 
