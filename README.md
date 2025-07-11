@@ -1,8 +1,6 @@
 # Time Series Analysis of Wind Energy Production in Türkiye
 
-This repository contains the complete codebase for the thesis project titled "Time Series Analysis of Wind Energy Production in Türkiye". The project focuses on the creation of a comprehensive Wind Farm Database (WFD) for Türkiye and the subsequent use of this database for in-depth time series analysis and wind power forecasting using machine learning models.
-
-thesis.kutlaykizil.com
+This repository contains the complete codebase for the thesis project titled ["Time Series Analysis of Wind Energy Production in Türkiye"](thesis.kutlaykizil.com). The project focuses on the creation of a comprehensive Wind Farm Database (WFD) for Türkiye and the subsequent use of this database for in-depth time series analysis and wind power forecasting using machine learning models.
 
 ## Abstract
 
