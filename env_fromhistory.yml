@@ -1,0 +1,27 @@
+name: WFP
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bokeh
+  - firefox==131.0=h5888daf_0
+  - folium
+  - font-ttf-noto
+  - geckodriver==0.35.0=he0f44a0_0
+  - libspatialite==5.1.0
+  - matplotlib
+  - netcdf4
+  - nomkl
+  - numpy
+  - pandas
+  - proj
+  - python
+  - rasterio
+  - reportlab
+  - scikit-learn
+  - scikit-learn-intelex
+  - selenium==4.24.0=py311hb02cf49_0
+  - tensorflow
+  - urllib3
+  - notebook
+prefix: /home/kutlay/.conda/envs/WFP
